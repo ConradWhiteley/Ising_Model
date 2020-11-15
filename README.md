@@ -1,4 +1,10 @@
-# phys449
+# Ising_Model
+Using Neural Networks to Predict Properties of the Ising Model
+
+Team Members:
+* Joseph Becque
+* Conrad Whiteley
+* Massine Yahia
 
 ## Instructions
 - Install requirements if necessary: `pip install -r requirements.txt`
